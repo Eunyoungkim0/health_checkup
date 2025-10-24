@@ -36,8 +36,16 @@
    - GET /api/health/{patientID} 이용
    - 예시: 
      - patientID = "12345"
+   - 데모(스크린샷):
+     - ![img_1.png](image/img1.png)
+     - ![img.png](image/img2.png)
+     - ![img.png](image/img3.png)
 2. AI Assistant 질문
    - POST /qna 이용
    - 예시: 
      - patientID = "12345"
      - question = "최근 건강검진 결과 어때요?"
+   - 데모(스크린샷):
+     - ![img.png](image/img4.png)
+     - ![img.png](image/img5.png)
+     - ![img.png](image/img6.png)
